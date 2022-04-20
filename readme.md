@@ -2,9 +2,9 @@
 Android Application which shows information regarding Corona
 ## Here are Some Images of App
 <p>
-  <img src="Images/splash_screen.jpg">
-  <img src="Images/home_page.jpg">
-  <img src="Images/menue.jpg">
+  <img width="400" height="200" src="Images/splash_screen.jpg">
+  <img width="400" height="200" src="Images/home_page.jpg">
+  <img width="400" height="200" src="Images/menue.jpg">
 </p>
 
 ## Why ?
